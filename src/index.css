@@ -1,0 +1,4 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.faq_background{background: linear-gradient(to right, #6797FF,   #d5e3ff6d, #f1f4ff);}
